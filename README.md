@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Developer, Who is passionate about Tech. Currently I'm working on Web Dev & DevOps with specialization in Next.js while learning AI tools. Throughout this journey i build Client-Projects gaining hands-on Experience with diverse Technologies. I have an excellent understanding of DSA, OOPS, and Problem-Solving.I am continiously adapting to new Environment.
+I'm a Devloper, Who is passionate about Tech and have hands-on experience building full-stack applications using Next.js Additionally, I have worked with DevOps and AI tools.Throughout this journey i have build Client-Projects gaining hands-on Experience with diverse Technologies Also have a strong foundation in DSA, OOPs, and problem-solving and continiously adapting to new Environment.Right now, I’m working on AI/ML & Building Something exciting—and I build in public to share the process.Connect with me to work.
 
 
 ## 🌐 Socials:
